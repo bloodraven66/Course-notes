@@ -16,5 +16,5 @@ This contains the notes I made from various ML courses I have learnt from.
 
 <br>
 To Do:<br>
-1. Add notes for algorithms. Update notes for deepbayes, DUSL.
+1. Add notes for algorithms, cs231n. Update notes for deepbayes, DUSL.<br>
 2. Add homework code implementation
