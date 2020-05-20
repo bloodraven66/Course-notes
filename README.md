@@ -8,11 +8,11 @@ This contains the notes I made from various ML courses I have learnt from.
 
 4. Introduction to Reinforcement Learning(David Silver) - 2015 (UCL/Deepmind) - <a href=https://www.davidsilver.uk/teaching/>website</a> - [notes](rl.pdf)
 
-5. Deeplearningbook.org - 2015 (Goodfellow et al.)- 2015 (UCL/Deepmind) - <a href=https://www.deeplearningbook.org//>website</a> - [notes](igf.pdf)
+5. Deeplearningbook.org - 2015 (Goodfellow et al.) - <a href=https://www.deeplearningbook.org//>website</a> - [notes](igf.pdf)
 6. Summer School on Deep Learning and Bayesian Measures - DeepBayes 2019 (HSE+) - <a href=https://deepbayes.ru/2019/#materials/>website</a> - [notes](deepbayes.pdf)
-7. Introduction to Machine Learning - 2011 (Coursera)- 2015 (UCL/Deepmind) - <a href=https://www.coursera.org/learn/machine-learning/>website</a> - [notes](intro.pdf)
-8. Introdcution to Algorithms - 2011 (MITOpenCourseWare)- 2015 (UCL/Deepmind) - <a href=https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/>website</a> - uploadNotes
-9. Design and analysis of algorithms - 2015 (MITOpenCourseWare)- 2015 (UCL/Deepmind) - <a href=https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015//>website</a> - uploadNotes
+7. Introduction to Machine Learning - 2011 (Coursera) - <a href=https://www.coursera.org/learn/machine-learning/>website</a> - [notes](intro.pdf)
+8. Introdcution to Algorithms - 2011 (MITOpenCourseWare) - <a href=https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/>website</a> - uploadNotes
+9. Design and analysis of algorithms - 2015 (MITOpenCourseWare) - <a href=https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015//>website</a> - uploadNotes
 
 <br>
 To Do:<br>
