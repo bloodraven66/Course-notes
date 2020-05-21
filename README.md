@@ -16,6 +16,6 @@ This contains the notes I made from various ML courses I have learnt from.
 
 <br>
 To Do:<br>
-1. Add notes for algorithms, cs231n. Update notes for deepbayes.<br>
+1. Add notes for cs231n. Update notes for deepbayes.<br>
 2. Add all homework code implementations
 3. DesignAlgo update it and perform post processing on all images. 
