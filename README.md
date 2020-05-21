@@ -11,7 +11,7 @@ This contains the notes I made from various ML courses I have learnt from.
 6. Deeplearningbook.org - 2015 (Goodfellow et al.) - <a href=https://www.deeplearningbook.org>website</a> - [notes](igf.pdf)[92 pages]
 7. Summer School on Deep Learning and Bayesian Measures - DeepBayes 2019 (HSE+) - <a href=https://deepbayes.ru/2019/#materials/>website</a> - [notes](deepbayes.pdf)[84 pages]
 8. Introduction to Machine Learning - 2011 (Coursera) - <a href=https://www.coursera.org/learn/machine-learning/>website</a> - [notes](intro.pdf)[23 pages]
-9. Introdcution to Algorithms - 2011 (MITOpenCourseWare) - <a href=https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/>website</a> - [notes](introAlgo.pdf)
+9. Introdcution to Algorithms - 2011 (MITOpenCourseWare) - <a href=https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/>website</a> - [notes](introAlgo.pdf)[45 pages]
 10. Design and analysis of algorithms - 2015 (MITOpenCourseWare) - <a href=https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015//>website</a> - [notes](designAlgo.pdf)[54 pages]
 
 <br>
