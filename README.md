@@ -2,7 +2,7 @@
 This contains the notes I made from various ML courses I have learnt from. 
 
 1. Convolutional neural networks for visual recognition - CS231n 2017 (Stanford) - <a href='http://cs231n.stanford.edu/'>website</a> - uploadNotes
-2. Natural Language Processing with Deep Learning - CS224n 2017 (Stanford) - <a href='http://web.stanford.edu/class/cs224n/'>website</a> - [notes[61 pages]](nlp.pdf)
+2. Natural Language Processing with Deep Learning - CS224n 2017 (Stanford) - <a href='http://web.stanford.edu/class/cs224n/'>website</a> - [notes](nlp.pdf)[61 pages]
 
 3. Deep Unsupervised learning - CS294-158-SP20 2020 (UC Berkeley) - <a href='https://sites.google.com/view/berkeley-cs294-158-sp20/home'>website</a> - [notes](dusl.pdf) - [assignments](DUSL-assignments/)
 4. Introduction to Deep Learning - 2018 (NPTEL) - <a href='https://nptel.ac.in/courses/106/106/106106184/'>website</a> - [notes](dl.pdf)
